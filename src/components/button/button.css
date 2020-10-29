@@ -1,0 +1,26 @@
+.button {
+  font-size: 12px;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  height: 40px;
+  width: 120px;
+  margin: 50px;
+  padding: 10px;
+  border-radius: 10px;
+  background-color: transparent;
+  cursor: pointer;
+}
+
+.default {
+  border: 1px solid black;
+  color: black;
+}
+
+.error {
+  border: 1px solid red;
+  color: red;
+}
+
+.success {
+  border: 1px solid green;
+  color: green;
+}
