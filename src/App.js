@@ -1,11 +1,11 @@
 import React from "react";
 
-import SearchResults from "./components/search-results/search-results";
+import {HeroImage} from "./atomic/organisms";
 
 function App() {
   return (
     <React.Fragment>
-      <SearchResults />
+      <HeroImage />
     </React.Fragment>
   );
 }
