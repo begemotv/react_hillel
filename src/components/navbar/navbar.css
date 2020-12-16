@@ -1,0 +1,10 @@
+.navbar {
+  text-align: center;
+  transform: rotate(180deg);
+  line-height: 2rem;
+  writing-mode: vertical-rl;
+  background-color: papayawhip;
+  text-transform: uppercase;
+  border: none;
+  justify-self: center;
+}
